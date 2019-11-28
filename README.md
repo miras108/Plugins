@@ -1,0 +1,1 @@
+run command: java -Djava.ext.dirs=./api:./plugins -cp runner.jar Runner
